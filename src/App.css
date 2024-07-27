@@ -6,7 +6,7 @@ body{
   background-color: #040711;
   background-image: url(./assets/images/hero_img.jpg);
   background-repeat: no-repeat;
-  background-size:  100% 50% cover;
+  background-size:  100vw 50%;
   background-position: top;
   height: 100vh;
 }
